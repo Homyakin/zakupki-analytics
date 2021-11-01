@@ -3,3 +3,5 @@ venv/
 *.iml
 */__pycache__/
 out/
+.ipynb_checkpoints/
+jupyter/data.db
