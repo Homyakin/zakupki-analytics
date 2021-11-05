@@ -5,3 +5,5 @@ venv/
 out/
 .ipynb_checkpoints/
 jupyter/data.db
+jupyter/output.xlsx
+jupyter/.~lock.output.xlsx#
