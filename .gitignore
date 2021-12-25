@@ -6,5 +6,5 @@ out/
 .ipynb_checkpoints/
 jupyter/data.db
 jupyter/data.zip
-jupyter/output.xlsx
+jupyter/*.xlsx
 jupyter/.~lock.output.xlsx#
